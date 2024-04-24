@@ -1,3 +1,7 @@
+# {Abdullmane Ali} 👨‍💻
+
+## About Me
+I am a web developer with a strong background in application development, particularly in Java and Flutter. My primary expertise lies in building websites using React.js. I also possess solid knowledge in server support.
 ## Some of My Projects
 
 - *Prayer Times Website:*
