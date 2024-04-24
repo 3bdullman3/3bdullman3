@@ -1,18 +1,21 @@
-# [Abdullmane Ali] 👨‍💻
-
-## About Me
-I'm a Mobile Developer experienced in Flutter, Java, and web development, with basic SQL Server knowledge. Proficient in computer usage and Microsoft Office. Seeking a challenging software development role to leverage diverse skills and contribute effectively.
 ## Some of My Projects
 
-- *Clean App*
-  - GitHub: [Clean App]()
-  - Description: CLINIC RESERVATION WEBSITE :Website to link patients with external clinics available in his area and link the website with databases. 🧹✨
+- *Prayer Times Website:*
+  - GitHub: [Prayer Times Website]()
+  - Built a website to display prayer times across multiple countries, utilizing a custom API for data retrieval and featuring a well-designed interface. ⏰🕌
 
-- *Graduate Project*
-  - GitHub: [Gradeuate Project]()
-  - Description: [Food-Delivery Graduate Project] Developed a feature-rich food delivery app for my graduation project, using Ionic, Angular, and Firebase. Implemented Google Maps API for precise location services, demonstrating proficiency in a variety of technologies learned during my specialization. 🍔🚀
-  
-## Contact
-- *Email:* [44abdullmane23@gmail.com](mailto:44abdullmane23@gmail.com) 
-- *LinkedIn:* [LinkedIn](https://www.linkedin.com/in/ibrahemdh7/)- ![LinkedIn Logo](https://img.icons8.com/color/48/000000/linkedin.png)
-- *Twitter(X):* [@ibrahemdh7](https://twitter.com/ibrahemdh7)- ![Twitter Logo](https://img.icons8.com/color/48/000000/twitter.png)
+- *Clinic Booking System:*
+  - GitHub: [Clinic Booking System]()
+  - Created a website with HTML, CSS, PHP, JS, and SQL for scheduling appointments in multiple hospitals. 💻🏥
+
+- *Testing Platform:*
+  - GitHub: [Clean App]()
+  - Developed a website for question posting and testing using JavaScript, CSS, and HTML. 🧹✨
+
+- *Task Manager App:*
+  - GitHub: [Graduate Project]()
+  - Built a task management app with Flutter, featuring a user-friendly interface and database integration. 📱📋
+
+- *Employee Message Board Site:*
+  - GitHub: [Graduate Project]()
+  - Developed a website for client-employee communication using a custom API. 📧💬
